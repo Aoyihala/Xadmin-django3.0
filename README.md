@@ -25,3 +25,5 @@
 # 运行使用
 运行可以完全参照https://xadmin.readthedocs.io/en/latest/index.html  
 使用完全可以参照https://www.jianshu.com/p/49eb568c9a25
+# 其他问题排查
+富文本使用失效参考链接https://blog.csdn.net/xiaosongshine/article/details/88548348  
