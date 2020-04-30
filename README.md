@@ -27,3 +27,4 @@
 使用完全可以参照https://www.jianshu.com/p/49eb568c9a25
 # 其他问题排查
 富文本使用失效参考链接https://blog.csdn.net/xiaosongshine/article/details/88548348  
+每次登录管理员用户前请先切换为django自带的login界面登录,再切换为自己的。
